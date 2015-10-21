@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/libs/nineoldandroids-2.4.0.jar" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/CircleTransformation.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/FeedAdapter.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/MainActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/MyMenuFragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/SquaredFrameLayout.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/wavedrawer/BakedBezierInterpolator.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/wavedrawer/FlowingAnimationListener.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/wavedrawer/FlowingView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/wavedrawer/LeftDrawerLayout.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/wavedrawer/MenuFragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/apkprovider/wavenavigationdrawer/wavedrawer/RevealLayout.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/userpic.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_menu.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/item_feed.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/view_feed_toolbar.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/view_global_menu_header.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/drawer_menu.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
